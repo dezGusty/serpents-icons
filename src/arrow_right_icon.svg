@@ -14,8 +14,11 @@
    viewBox="0 0 453.54331 453.54331"
    id="svg3368"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="arrow_right_icon.svg">
+   inkscape:version="0.91pre4 r13712"
+   sodipodi:docname="arrow_right_icon.svg"
+   inkscape:export-filename="C:\code\serpents-icons\src\arrow_right_icon.png"
+   inkscape:export-xdpi="4"
+   inkscape:export-ydpi="4">
   <defs
      id="defs3370" />
   <sodipodi:namedview
@@ -25,14 +28,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="194.07234"
-     inkscape:cy="208.92416"
+     inkscape:zoom="0.35"
+     inkscape:cx="-167.59892"
+     inkscape:cy="190.44618"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1858"
-     inkscape:window-height="1057"
+     inkscape:window-height="1058"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -54,8 +57,8 @@
      id="layer1"
      transform="translate(0,-598.8189)">
     <path
-       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.42512202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 283.41215,961.27005 419.09184,825.59036 283.41215,689.91263 l 0,101.29687 -249.255845,0 0,68.76368 249.255845,0 0,101.29687 z"
+       style="fill:#217844;fill-rule:evenodd;stroke:#000000;stroke-width:1.42512202px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 270.49029,689.91183 0,101.29687 -223.412114,0 0,68.76368 223.412114,0 0,101.29687 L 406.16998,825.58956 270.49029,689.91183 Z"
        id="rect3376"
        inkscape:connector-curvature="0" />
   </g>
