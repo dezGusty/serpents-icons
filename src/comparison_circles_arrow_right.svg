@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="comparison_circles_arrow_right.svg">
+   sodipodi:docname="comparison_circles_arrow_right.svg"
+   inkscape:export-filename="C:\code\serpents-icons\src\comparison_circles_arrow_right.png"
+   inkscape:export-xdpi="7.0300002"
+   inkscape:export-ydpi="7.0300002">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="25.63699"
-     inkscape:cy="161.14085"
+     inkscape:zoom="1.979899"
+     inkscape:cx="61.895767"
+     inkscape:cy="156.63624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,13 +58,13 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <circle
-       style="opacity:0.5;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3336-8-4-7"
        cx="177"
        cy="924.36218"
        r="60" />
     <circle
-       style="opacity:0.5;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3336-8-2"
        cx="79"
        cy="924.36218"

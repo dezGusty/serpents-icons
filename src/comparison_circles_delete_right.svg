@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="comparison_circles_delete_right.svg">
+   sodipodi:docname="comparison_circles_delete_right.svg"
+   inkscape:export-filename="C:\code\serpents-icons\src\comparison_circles_delete_right.png"
+   inkscape:export-xdpi="7.0300002"
+   inkscape:export-ydpi="7.0300002">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="12.591859"
+     inkscape:cx="-62.917043"
      inkscape:cy="147.87157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,24 +58,24 @@
      id="layer1"
      transform="translate(0,-796.36216)">
     <circle
-       style="opacity:0.5;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3336-8-4-7"
        cx="166.88248"
        cy="924.36218"
        r="60" />
     <circle
-       style="opacity:0.5;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3336-8-2"
        cx="68.882477"
        cy="924.36218"
        r="60" />
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 166.88247,859.36216 a 65,65 0 0 0 -65,65 65,65 0 0 0 65,65 65,65 0 0 0 65,-65 65,65 0 0 0 -65,-65 z m 0,5 a 60,60 0 0 1 60,60 60,60 0 0 1 -60,60 60,60 0 0 1 -60,-60 60,60 0 0 1 60,-60 z"
        id="path3336-9"
        inkscape:connector-curvature="0" />
     <path
-       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.33;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 68.882475,859.36216 a 65,65 0 0 0 -65,65 65,65 0 0 0 65,65 65,65 0 0 0 64.999995,-65 65,65 0 0 0 -64.999995,-65 z m 0,5 a 60,60 0 0 1 59.999995,60 60,60 0 0 1 -59.999995,60 60,60 0 0 1 -60,-60 60,60 0 0 1 60,-60 z"
        id="path3336"
        inkscape:connector-curvature="0" />
